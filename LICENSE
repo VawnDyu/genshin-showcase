@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2025 VawnDyu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL NOTICE — THIRD-PARTY ASSETS
+
+All character artwork, backgrounds, UI elements, fonts, and other visual assets
+used in this project are the intellectual property of HoYoverse/miHoYo.
+
+These assets are NOT covered by the MIT License above. They are included solely
+for educational and non-commercial demonstration purposes. No ownership or
+licensing rights over these assets are granted by this project.
+
+If you fork or redistribute this project, you are responsible for ensuring your
+use of any HoYoverse/miHoYo assets complies with their terms of service and
+applicable copyright law.
