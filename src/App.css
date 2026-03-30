@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'GenshinFont';
+  src: url('./assets/fonts/GenshinFont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'GenshinFont', sans-serif;
+}
