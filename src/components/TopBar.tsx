@@ -109,7 +109,7 @@ const TopBar = ({
       onGitHubClick();
     } else {
       // Default action: open GitHub repo
-      window.open('https://github.com/yourusername/your-repo', '_blank');
+      window.open('https://github.com/vawndyu/genshin-showcase', '_blank');
     }
   };
 
